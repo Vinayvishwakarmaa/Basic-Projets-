@@ -1,0 +1,18 @@
+
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+    padding: 16px;
+    font-size: 15px;
+    background-color: #808080;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 2px solid #000000;
+    color: #000000;
+    cursor: pointer;
+}

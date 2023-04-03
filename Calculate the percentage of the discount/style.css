@@ -1,0 +1,36 @@
+strong{
+    text-align: center;
+    justify-content:center;
+    margin-left: 40%;
+    font-size: 1.2rem;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: darkkhaki;
+    margin-top: 16%;
+}
+input{
+    margin-left: 40%;
+    width: 17vw;
+    height: 4vh;
+    border-radius: 5px;
+    border: none;
+    border: 2px solid #000000;
+}
+h1{
+    margin-left: 40%;
+}
+button{
+    margin-left: 42%;
+    width: 14vw;
+    height: 5vh;
+    letter-spacing: 2px;
+    border-radius: 5px;
+    font-size: 1rem;
+    border: none;
+    border: 1px solid #000000;
+    background-color: green;
+    color: #fff;
+}
